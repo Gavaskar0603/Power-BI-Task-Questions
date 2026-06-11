@@ -1,0 +1,111 @@
+Stacked Column Chart Scenario Questions
+	Which customer segments contribute most to sales within each product category?
+	How is profit distributed across categories in different regions?
+	Which shipping modes are most frequently used for each customer segment?
+	How does product category performance vary across regions?
+	Which categories generate the highest sales, and what segment contributes most to those sales?
+	How is quantity sold distributed among customer segments for each category?
+	Which regions are driving the profit of each product category?
+	What is the sales composition of each region by category?
+
+Stacked Bar Chart
+	Which sub-categories contribute the most profit within each region?
+	How are sales distributed among customer segments across different states?
+	Which ship mode handles the highest order quantities across regions?
+	What is the contribution of each category to total sales in every state?
+	Which customer segment generates the highest profit in each region?
+	How does product demand vary by category across customer segments?
+	Which cities generate the most sales and through which categories?
+	How is profitability distributed among categories in each region?
+
+Clustered Bar Chart
+	Compare sales performance across all product sub-categories.
+	Which regions generate the highest profit?
+	Which customer segment contributes the most revenue?
+	Compare sales generated through different shipping modes.
+	Which states have the highest sales performance?
+	Compare product category profitability.
+	Which cities contribute the most to overall revenue?
+	Which sub-categories have the highest order quantities?
+
+Clustered Column Chart
+	Compare category sales across customer segments.
+	Which regions perform best for each customer segment?
+	Compare profitability across product categories and regions.
+	How does shipping mode impact sales across categories?
+	Which customer segments purchase the most products in each category?
+	Compare regional sales performance by category.
+	Which ship mode generates the highest profit across regions?
+	Compare quantity sold across categories and customer segments.
+
+100% Stacked Column Chart
+	What percentage of category sales comes from each customer segment?
+	How is profit contribution distributed among categories within each region?
+	What is the market share of each shipping mode across regions?
+	Which customer segment dominates sales in each category?
+	What percentage of total quantity sold comes from each region?
+	How does category contribution vary across states?
+	Which segment contributes the largest share of profit in each category?
+	What is the percentage distribution of sales among categories by region?
+
+100% Stacked Bar Chart
+	What is the percentage contribution of categories to total sales in each region?
+	How is profit distributed among customer segments across categories?
+	Which ship mode contributes the highest percentage of orders?
+	What percentage of sales comes from each segment in every state?
+	How is quantity sold distributed among regions?
+	Which categories dominate sales within each customer segment?
+	What is the profit share of each category across regions?
+	Which customer segment contributes the largest percentage of revenue?
+
+Funnel Chart
+	Identify the sales drop from Category → Sub-Category levels.
+	Which product categories contribute most to total revenue?
+	How does the order volume decrease across top-performing regions?
+	Which customer segments account for the highest number of orders?
+	Analyze profit contribution from highest to lowest categories.
+	Which sub-categories are driving the majority of sales?
+	How does quantity sold reduce across product categories?
+	Which states contribute the most revenue and where does the drop-off occur?
+
+Ribbon Chart
+	How do category sales rankings change across regions?
+	Which sub-categories consistently rank among the top sellers?
+	How have regional profit rankings changed over time?
+	Which customer segments maintain top sales rankings?
+	How do category rankings vary across states?
+	Which regions consistently outperform others in revenue generation?
+	Track changes in sub-category profitability rankings.
+	How does segment performance rank across different product categories?
+
+Donut Chart
+	What percentage of total sales comes from each category?
+	Which region contributes the highest share of profit?
+	What is the customer segment distribution of total sales?
+	Which shipping mode handles the largest share of orders?
+	What percentage of total quantity sold belongs to each category?
+	Which category contributes the highest share of profit?
+	How is revenue distributed across regions?
+	What percentage of orders comes from each customer segment?
+
+Pie Chart
+	What is the sales contribution of each product category?
+	Which region contributes the most profit?
+	What percentage of revenue comes from each customer segment?
+	Which shipping mode is most commonly used?
+	How is quantity sold distributed across categories?
+	What is the market share of each region based on sales?
+	Which category generates the highest percentage of profit?
+	What percentage of orders belongs to each segment?
+
+Bonus: Common Power BI Interview Questions Using Superstore Dataset
+	Which region is the most profitable and why?
+	Identify the top 10 products contributing to 80% of sales.
+	Which customer segment generates high sales but low profit?
+	Which states are causing overall profitability to decline?
+	Analyze the relationship between Discount and Profit.
+	Which product categories should management focus on for growth?
+	Identify loss-making sub-categories despite high sales.
+	Which ship mode provides the best profitability?
+	What seasonal trends can be observed in sales performance?
+	Build an executive dashboard showing Sales, Profit, Quantity, Orders, and Top/Bottom Performers.
