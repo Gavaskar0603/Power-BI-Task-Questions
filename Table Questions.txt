@@ -1,0 +1,92 @@
+Table
+	Display the Top 10 Products by Sales.
+	List all loss-making products with their Profit values.
+	Show State-wise Sales, Profit, and Quantity.
+	Identify customers generating the highest revenue.
+	Display products with discounts greater than 20%.
+	List the Top 20 Cities by Sales.
+	Show orders with negative profit.
+	Identify the most profitable products in each category.
+	Display Category, Sub-Category, Sales, and Profit details.
+	Show all orders shipped through each Ship Mode.
+
+Formatting / Customization Tasks
+	Apply conditional formatting to Profit (Green for profit, Red for loss).
+	Add data bars for Sales values.
+	Format Sales and Profit as currency.
+	Highlight Top 10 records using conditional formatting.
+	Customize column headers and font styles.
+	Freeze important columns.
+	Enable word wrap for long product names.
+	Alternate row colors for better readability.
+	Add icons for profit and loss indicators.
+	Configure sorting on multiple columns.
+	Apply custom tooltips.
+	Add URL links to product details (if available).
+
+Interview-Level Table Questions
+	Create a table showing Top 10 Products by Profit.
+	Highlight products with negative profit using conditional formatting.
+	Display only products contributing more than 5% of total sales.
+	Create a dynamic table based on slicer selections.
+	Add KPI icons for profit performance.
+	Show ranking of products based on Sales.
+	Create a table showing Year-over-Year Sales comparison.
+	Display Top and Bottom 5 products dynamically.
+
+Matrix Table
+	Analyze Sales by Category and Sub-Category.
+	Compare Profit across Regions and Categories.
+	Display Quantity Sold by Category and Region.
+	Analyze Sales by State and Product Category.
+	Compare Customer Segment performance across Regions.
+	Show Profitability by Category and Ship Mode.
+	Analyze yearly Sales by Category.
+	Compare Regional Sales across Customer Segments.
+	Identify the best-performing Category within each Region.
+	Analyze Product Category performance by State.
+
+Formatting / Customization Tasks
+	Enable expand/collapse hierarchy.
+	Show row and column subtotals.
+	Display grand totals.
+	Apply conditional formatting to Profit values.
+	Add data bars for Sales.
+	Use heat map formatting for performance analysis.
+	Customize row headers and column headers.
+	Enable stepped layout.
+	Apply alternate row shading.
+	Format hierarchy levels with different styles.
+	Create custom tooltips.
+	Apply conditional icons for KPI analysis.
+	Format subtotal and grand total rows separately.
+	Configure drill-down and drill-up functionality.
+
+Interview-Level Matrix Questions
+	Create a matrix showing Category → Sub-Category hierarchy.
+	Display Sales, Profit, and Quantity in a single matrix.
+	Highlight loss-making Sub-Categories using conditional formatting.
+	Create a Region → State → City drill-down hierarchy.
+	Show Year-wise Sales comparison in columns.
+	Create a Profit heat map using matrix conditional formatting.
+	Display Top Performing Categories within each Region.
+	Compare current year vs previous year sales in a matrix.
+	Create dynamic subtotals based on user selection.
+	Build a matrix showing contribution percentages for each category.
+	Common Formatting Interview Tasks for Table & Matrix
+
+Apply Conditional Formatting.
+	Add Data Bars.
+	Add KPI Icons.
+	Create Heat Maps.
+	Configure Drill Down.
+	Enable Expand/Collapse Hierarchy.
+	Customize Totals and Subtotals.
+	Create Dynamic Titles using DAX.
+	Apply Top N Filters.
+	Create Custom Tooltips.
+	Add Ranking Columns.
+	Format Numbers (Currency, Percentage, Decimal).
+	Apply Alternate Row Colors.
+	Configure Visual Interactions.
+	Create Responsive Layouts.
