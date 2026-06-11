@@ -1,0 +1,99 @@
+Stacked Column Chart
+	Show Sales by Category, broken down by Segment.
+	Display Profit by Region, segmented by Category.
+	Compare Quantity Sold by Ship Mode, split by Segment.
+	Show Sales by State, broken down by Category.
+	Display Profit by Category, segmented by Ship Mode.
+	Compare Sales by Region, split by Sub-Category.
+	Show Quantity by Category, broken down by Region.
+	Display Profit by Segment, segmented by Category.
+
+Stacked Bar Chart
+	Show Sales by Sub-Category, broken down by Segment.
+	Compare Profit by State, split by Category.
+	Display Quantity Sold by City, segmented by Ship Mode.
+	Show Sales by Customer Segment, broken down by Region.
+	Compare Profit by Ship Mode, split by Category.
+	Display Sales by Region, segmented by Segment.
+	Show Quantity by Sub-Category, broken down by Region.
+	Compare Profit by Category, split by Discount Range.
+
+Clustered Bar Chart
+	Compare Sales across Sub-Categories.
+	Compare Profit by Region.
+	Compare Quantity Sold by Category.
+	Compare Sales by Ship Mode.
+	Compare Profit by Segment.
+	Compare Sales by Top 10 States.
+	Compare Quantity by Region.
+	Compare Profit by Top 10 Cities.
+
+Clustered Column Chart
+	Compare Sales by Category and Segment.
+	Compare Profit by Region and Segment.
+	Show Quantity by Category and Region.
+	Compare Sales by Ship Mode and Category.
+	Show Profit by Segment and Region.
+	Compare Sales by State and Category.
+	Show Quantity by Ship Mode and Segment.
+	Compare Profit by Category and Ship Mode.
+
+100% Stacked Column Chart
+	Show the percentage contribution of each Segment within Category Sales.
+	Display the percentage of Profit by Category within each Region.
+	Show the share of Ship Modes across Regions.
+	Display the percentage contribution of Sub-Categories within Categories.
+	Show the distribution of Sales by Segment for each Region.
+	Display the percentage of Quantity Sold by Category across Regions.
+	Show the share of Profit by Segment within Categories.
+	Compare Category contribution percentages by State.
+
+100% Stacked Bar Chart
+	Show the percentage distribution of Sales by Segment across Categories.
+	Display the percentage of Profit by Category across Regions.
+	Show the share of Quantity by Ship Mode across Segments.
+	Compare the percentage contribution of Sub-Categories within Regions.
+	Show the distribution of Sales across Categories for each Segment.
+	Display the percentage contribution of Ship Modes within Regions.
+	Show the share of Profit by Segment across Categories.
+	Compare the percentage contribution of Regions within Total Sales.
+
+Funnel Chart
+	Create a funnel showing Sales by Category → Sub-Category.
+	Show Total Orders by Region from highest to lowest.
+	Create a funnel of Sales by Segment.
+	Show Profit by Category in funnel format.
+	Create a funnel of Quantity Sold by Ship Mode.
+	Show Sales by Top 10 States.
+	Create a funnel for Top 10 Sub-Categories by Profit.
+	Show Customer Count by Segment.
+
+Ribbon Chart
+	Track Sales Rank of Categories across Regions.
+	Compare Profit Rank of Segments across Years.
+	Show Sub-Category Sales Ranking across Regions.
+	Track State-wise Sales Rankings by Year.
+	Compare Category Profit Rankings across Ship Modes.
+	Show Segment Sales Rankings across Regions.
+	Track Top Product Categories by Sales over Years.
+	Compare Region Profit Rankings across Categories.
+
+Donut Chart
+	Show the Sales contribution by Category.
+	Display Profit contribution by Region.
+	Show Quantity Sold by Segment.
+	Display Sales distribution by Ship Mode.
+	Show Profit contribution by Category.
+	Display Sales distribution by Region.
+	Show Customer distribution by Segment.
+	Display Quantity contribution by Category.
+
+Pie Chart
+	Show the percentage of Sales by Category.
+	Display Profit distribution by Region.
+	Show Sales distribution by Segment.
+	Display Quantity Sold by Ship Mode.
+	Show Profit contribution by Category.
+	Display Sales distribution by Region.
+	Show Orders by Segment.
+	Display Quantity Sold by Category.
