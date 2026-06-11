@@ -1,0 +1,57 @@
+Basic Map (Industry / Business Scenario Questions)
+	Which states generate the highest sales revenue?
+	Identify the regions with the highest and lowest profit margins.
+	Which cities contribute the most to total sales?
+	Where are the company's most profitable markets located?
+	Which geographic locations have the highest order volume?
+	Identify states where sales are high but profitability is low.
+	Which cities show strong growth opportunities based on sales performance?
+	Where should the company focus its marketing efforts to maximize revenue?
+	Which locations have the highest customer concentration?
+	Identify underperforming regions that require business attention.
+
+Filled Map (Industry / Business Scenario Questions)
+	Which states contribute the largest share of company sales?
+	How is profit distributed geographically across the country?
+	Which regions have the highest sales density?
+	Identify states with negative profitability.
+	Which areas generate high revenue but low profit?
+	What is the geographic distribution of customer demand?
+	Which states contribute most to overall order quantity?
+	How does market performance vary across different states?
+	Which regions should be prioritized for business expansion?
+	Identify geographical areas with untapped market potential.
+
+Shape Map (Industry / Business Scenario Questions)
+	Compare sales performance across all states using a regional heat map.
+	Which states have the highest profitability levels?
+	Identify states with declining business performance.
+	Which regions require immediate business intervention due to low profits?
+	How is revenue distributed across different territories?
+	Which states contribute most to overall company growth?
+	Identify geographical clusters of high-performing markets.
+	Which territories have strong sales but weak profitability?
+	How does customer demand vary across different states?
+	Which regions should receive additional investment based on business performance?
+
+Power BI Interview Questions for Maps
+Basic Map
+	Which location has the highest sales and profit?
+	How would you identify high-performing cities using a map visualization?
+	What business insights can be derived from geographical sales distribution?
+	Why would you use a Basic Map instead of a Filled Map?
+	How can location intelligence help business decision-making?
+
+Filled Map
+	Which states contribute more than 10% of total sales?
+	How do you identify underperforming regions using a Filled Map?
+	What are the advantages of Filled Maps for regional analysis?
+	How would management use this map for expansion planning?
+	How can you compare profitability across states using color intensity?
+
+Shape Map
+	When would you use a Shape Map instead of a Filled Map?
+	How can Shape Maps help in territory-based sales analysis?
+	What business decisions can be made using Shape Map insights?
+	How do you visualize sales performance across custom business territories?
+	How would you identify sales coverage gaps using a Shape Map?
