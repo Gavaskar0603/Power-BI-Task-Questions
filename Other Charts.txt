@@ -1,0 +1,83 @@
+Line Chart
+	How have sales trended over time (Month/Year)?
+	What is the monthly profit trend across the business?
+	How has order quantity changed over time?
+	Which months experience peak sales performance?
+	How do sales trends differ across regions?
+	Is profit growing consistently year-over-year?
+	Which category shows the strongest sales growth trend?
+	Identify seasonal patterns in sales performance.
+	How does customer demand fluctuate throughout the year?
+	Which region demonstrates the most stable growth?
+
+Area Chart
+	How has cumulative sales changed over time?
+	Which category contributes most to overall sales growth?
+	How does profit accumulate across months?
+	Compare sales trends among regions.
+	Which segment contributes the most revenue over time?
+	Analyze cumulative order quantity growth.
+	How do category sales trends compare year-over-year?
+	Identify periods of rapid business growth.
+
+Drill-Down Line Chart
+	Analyze Sales from Year → Quarter → Month.
+	Analyze Profit from Region → State → City.
+	Drill into Category → Sub-Category sales trends.
+	Analyze quantity trends across product hierarchy.
+	Compare customer segment performance over time.
+	Track regional growth at multiple levels.
+	Identify detailed sales trends within top-performing categories.
+	Analyze profitability trends from state to city level.
+
+Scatter Plot
+	Is there a relationship between Sales and Profit?
+	How does Discount impact Profit?
+	Which products generate high sales and high profit?
+	Identify outliers with unusually high discounts.
+	Analyze Quantity vs Profit relationship.
+	Which categories have the strongest profitability?
+	Are high-sales products always profitable?
+	Which customer segments generate the highest returns?
+	Identify loss-making products with high sales.
+	Analyze customer purchasing behavior patterns.
+
+Waterfall Chart
+	What factors contribute to overall profit?
+	Analyze monthly profit increase and decrease.
+	Which categories contribute most to total profit?
+	How do regions impact overall profitability?
+	Identify gains and losses by category.
+	Analyze year-over-year profit changes.
+	Which products drive profit growth?
+	Understand sales contribution toward total revenue.
+
+Tree Map
+	Which categories contribute the most sales?
+	Which sub-categories generate the highest profit?
+	Compare category sales distribution.
+	Identify top-performing products.
+	Analyze regional contribution to sales.
+	Which customer segments generate maximum revenue?
+	Compare sales share across product groups.
+	Identify underperforming categories.
+
+Gauge Chart
+	Has the sales target been achieved?
+	What percentage of the profit target has been completed?
+	How close is the business to reaching its revenue goal?
+	Compare actual sales against target sales.
+	Monitor monthly performance against KPIs.
+	Evaluate regional performance against targets.
+	Track customer acquisition goals.
+	Monitor order fulfillment targets.
+
+100% Stacked Area Chart
+	How does category contribution to total sales change over time?
+	Which customer segment dominates sales each year?
+	Analyze market share changes across regions.
+	How does category profit contribution vary over time?
+	Which segment's share is growing fastest?
+	Analyze regional contribution trends.
+	Compare category share of total quantity sold.
+	Track changes in business composition over time.
